@@ -37,8 +37,7 @@ Here are some final considerations:
 
 * You must use proper labeling of your plots, to include properties such as: plot titles, axis labels, legend labels, _x_-axis and _y_-axis limits, etc.
 
-* See the [starter workbook](Pymaceuticals/pymaceuticals_starter.ipynb) for help on what modules to import and expected format of the notebook.
-
+* See the starter workbook code for help.
 
 ### Copyright
 
